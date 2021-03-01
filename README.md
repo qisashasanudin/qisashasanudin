@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working as a **Mobile Application Developer Intern at Edumatic International (Gemadata Groups)** --->
 
-- 🌱 I’m currently learning **Java, TensorFlow, MindSpore, React.js, & React Native**
+- 🌱 I’m currently learning **Java, Ethical Hacking, TensorFlow, MindSpore, React.js, & React Native**
 
 - 📫 How to reach me: **qisas.tazkia@ui.ac.id**
 
