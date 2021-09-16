@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a **laboratory assistant at Digital Laboratory DTE FTUI**
 
-- 🌱 I’m currently learning **TensorFlow, MindSpore, React.js, & React Native**
+- 🌱 I’m currently learning **Mozilla DeepSpeech, TensorFlow, HDFS, React.js, & React Native**
 
 - 📫 How to reach me: **qisas.tazkia@ui.ac.id**
 
