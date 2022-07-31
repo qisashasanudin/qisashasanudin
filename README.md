@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qisashasanudin&label=Profile%20views&color=0e75b6&style=flat" alt="qisashasanudin" /> </p>
 
-- 🔭 I’m currently working as a **laboratory assistant at Digital Laboratory DTE FTUI**
-
-- 🌱 I’m currently learning **Mozilla DeepSpeech, TensorFlow, React.js, Node.js, MongoDB & React Native**
+- 🔭 I’m currently working as a **Software Engineer at PT Henan Putihrai Asset Management**
 
 - 📫 How to reach me: **qisas.tazkia@ui.ac.id**
 
