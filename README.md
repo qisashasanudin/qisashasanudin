@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer at PT Henan Putihrai Asset Management**
 
-- 📫 How to reach me: **qisas.tazkia@ui.ac.id**
+- 📫 How to reach me: **qisas.hasanudin@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
