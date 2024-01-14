@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qisashasanudin&label=Profile%20views&color=0e75b6&style=flat" alt="qisashasanudin" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer at PT Henan Putihrai Asset Management**
+- 🔭 I’m currently working as a **Software Engineer at Henan Asset Management**
 
 - 📫 How to reach me: **qisas.hasanudin@gmail.com**
 
