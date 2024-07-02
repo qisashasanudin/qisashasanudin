@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qisashasanudin&label=Profile%20views&color=0e75b6&style=flat" alt="qisashasanudin" /> </p>
 
-- 🔭 I’m currently working as a **Technology Consultant at EY Indonesia**
+- 🔭 I’m currently working as a **Technology Consultant**
 
 - 📫 How to reach me: **qisas.hasanudin@gmail.com**
 
